@@ -1,5 +1,6 @@
 *.db
 groknews.db
+groklog.db
 bun.lock
 node_modules
 config.json
